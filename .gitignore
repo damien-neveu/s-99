@@ -1,0 +1,29 @@
+### MacOS template
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+### SBT template
+
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+.history
+.cache
+.lib/
+
+### Scala template
+*.class
+*.log
+
+### IntelliJ
+.idea
